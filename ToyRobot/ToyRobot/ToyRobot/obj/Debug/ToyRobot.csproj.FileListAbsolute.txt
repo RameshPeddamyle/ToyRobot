@@ -1,0 +1,7 @@
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe.config
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\bin\Debug\ToyRobot.exe
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\bin\Debug\ToyRobot.pdb
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csproj.AssemblyReference.cache
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\obj\Debug\ToyRobot.csproj.CoreCompileInputs.cache
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\obj\Debug\ToyRobot.exe
+C:\Users\daraghav\source\repos\ToyRobot\ToyRobot\obj\Debug\ToyRobot.pdb
